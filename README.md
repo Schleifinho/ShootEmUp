@@ -1,2 +1,2 @@
-## Development
+## Deployment
 https://schleifinho.github.io/ShootEmUp
